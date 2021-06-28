@@ -14,6 +14,8 @@ A total of 4114 fundraising cases from various categories such as television, dr
 
 The first course of action was to create a `pivot table` to help narrow and visualize the outcomes of fundraising theatre projects based on launch date. This would help the playwright be aware of the best possible time to launch a fundraiser for their play. The pivot table below shows that spring-summer months, i.e May through July, were the times where most producers chose to start their fundraisers. The pivot table was used to produce a line graph named `Theatre Outcomes by Launch Date` to help better visualize the best time for launching. As shown on the graph below, summer months fundraisers had the highest possible chance of succeeding with May being the highest with a 67% chance of theatre fundraising projects succeeding. 
 
+https://github.com/EstherUto/kickstarter-analysis/issues/1#issue-931060993
+
 ### Analysis of Outcomes Based on Goals
 
 To further assist the playwright, the chances of success or failure was analyzed based on the goal amount of past play fundraisers. The following table and graph shows the percentage succeeded, percentage failed and percentage cancelled for a total of 1,047 plays depending on the asking amount for production. 
