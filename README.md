@@ -16,6 +16,7 @@ The first course of action was to create a `pivot table` to help narrow and visu
 
 <img width="457" alt="Theater_Outcomes_by_Launch_Date_table" src="https://user-images.githubusercontent.com/86085601/123564688-52d2c180-d788-11eb-92a7-39f07efa85f7.png">
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/86085601/123564717-70079000-d788-11eb-96a3-c4980233d4c7.png)
 
 ### Analysis of Outcomes Based on Goals
 
