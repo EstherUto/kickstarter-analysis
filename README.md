@@ -14,7 +14,7 @@ A total of 4114 fundraising cases from various categories such as television, dr
 
 The first course of action was to create a `pivot table` to help narrow and visualize the outcomes of fundraising theatre projects based on launch date. This would help the playwright be aware of the best possible time to launch a fundraiser for their play. The pivot table below shows that spring-summer months, i.e May through July, were the times where most producers chose to start their fundraisers. The pivot table was used to produce a line graph named `Theatre Outcomes by Launch Date` to help better visualize the best time for launching. As shown on the graph below, summer months fundraisers had the highest possible chance of succeeding with May being the highest with a 67% chance of theatre fundraising projects succeeding. 
 
-<img width="457" alt="Theater_Outcomes_by_Launch_Date_table" src="https://user-images.githubusercontent.com/86085601/123564688-52d2c180-d788-11eb-92a7-39f07efa85f7.png">
+<img width="700" alt="Theater_Outcomes_by_Launch_Date_table" src="https://user-images.githubusercontent.com/86085601/123564688-52d2c180-d788-11eb-92a7-39f07efa85f7.png">
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/86085601/123564717-70079000-d788-11eb-96a3-c4980233d4c7.png)
 
@@ -22,8 +22,9 @@ The first course of action was to create a `pivot table` to help narrow and visu
 
 To further assist the playwright, the chances of success or failure was analyzed based on the goal amount of past play fundraisers. The following table and graph shows the percentage succeeded, percentage failed and percentage cancelled for a total of 1,047 plays depending on the asking amount for production. 
 
-<img width="711" alt="Outcomes_Based_on_Goals_table" src="https://user-images.githubusercontent.com/86085601/123564735-831a6000-d788-11eb-9049-b4add76538d8.png">
+<img width="1900" alt="Outcomes_Based_on_Goals_table" src="https://user-images.githubusercontent.com/86085601/123564735-831a6000-d788-11eb-9049-b4add76538d8.png">
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/86085601/123564741-8d3c5e80-d788-11eb-9a12-81f314a63cbd.png)
 
 The `Outcome Based on Goal` graph shows that fundraisers less than $5,000 had over a 70% chance of succeeding. If the playwright would like an asking production price between $15,000 to $19,999, there is a 50-50 chance of succeeding or failing. As expected, the more the asking production price, the higher the chance of failure. The table and graph shows that an asking price range between $35,000 and $44,999 had a 67% chance of succeeding but a sample size of 9 fundraisers in this price range is too small to say how truly successful the fundraiser for the playwright client would be in comparison to the 750 projects that had asking prices below $5,000.
 
