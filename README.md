@@ -6,7 +6,7 @@ A playwright has requested assistance in analysing fundraising trends to determi
 ### Purpose
 The purpose of the analysis was to assist a playwright who would like to fundraise $10,000 for their play. The playwright has asked for assistance in finding the best course of action based on past plays that initialized fundraising events. The goal was to assist the playwright on which factors will maximize their chances of having a successful fundraiser for their play *Fever*.
 
-## Analysis and Challenges: Explain how you performed your analysis using images and links to code
+## Analysis and Challenges
 
 A total of 4114 fundraising cases from various categories such as television, drama, documentary, theatre, amongst others were analyzed, although due to the nature of the project of the playwright, the focus was theatre. 
 
