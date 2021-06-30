@@ -4,11 +4,11 @@
 A playwright has requested assistance in analysing fundraising trends to determine the best course of action to kickstart their theatre play production.
 
 ### Purpose
-The purpose of the analysis was to assist a playwright who would like to fundraise $10,000 for their play. The playwright has asked for assistance in finding the best course of action based on past plays that initialized fundraising events. The goal was to assist the playwright on which factors will maximize their chances of having a successful fundraiser for their play *Fever*.
+The purpose of the analysis was to guide the playwright who would like to fundraise $10,000 for their play on the best course of action for starting a successful fundraiser.
 
 ## Analysis and Challenges
 
-A total of 4114 fundraising cases from various categories such as television, drama, documentary, theatre, amongst others were analyzed, although due to the nature of the project of the playwright, the focus was theatre. 
+A total of 4114 fundraising cases from various categories such as television, drama, documentary, theatre, amongst others were collated and analyzed, although due to the nature of the project of the playwright, the focus was theatre, specifically plays. 
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -26,7 +26,7 @@ To further assist the playwright, the chances of success or failure was analyzed
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/86085601/123565093-adb8e880-d789-11eb-8fc9-f1efa93f9375.png)
 
-The `Outcome Based on Goal` graph shows that fundraisers less than $5,000 had over a 70% chance of succeeding. If the playwright would like an asking production price between $15,000 to $19,999, there is a 50-50 chance of succeeding or failing. As expected, the more the asking production price, the higher the chance of failure. The table and graph shows that an asking price range between $35,000 and $44,999 had a 67% chance of succeeding but a sample size of 9 fundraisers in this price range is too small to say how truly successful the fundraiser for the playwright client would be in comparison to the 750 projects that had asking prices below $5,000.
+The `Outcome Based on Goal` graph shows that fundraisers less than $5,000 had over a 70% chance of succeeding. If the playwright would like an asking production price between $15,000 to $19,999, there is a 50-50 chance of succeeding or failing. As expected, the more the asking production price, the higher the chance of failure. The playwright is looking to raise $10,000, however, based on the data, the chances of reaching that goal is only 54%. The playwright may have a better chance of succedding by hosting two $5,000 fundraisers.
 
 ### Challenges and Difficulties Encountered
 
